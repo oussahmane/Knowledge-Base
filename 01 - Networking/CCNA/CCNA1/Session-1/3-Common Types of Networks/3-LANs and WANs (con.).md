@@ -1,3 +1,0 @@
-- A LAN is a network infrastructure that spans a small geographical area.
-- A WAN is a network infrastructure that spans a wide geographical area.
-- 
