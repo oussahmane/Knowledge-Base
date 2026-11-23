@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Networking/CCNA/CCNA1/Session-4/3-Others/1-MyNote/1 - note 1.md",
+                "file": "01 - Networking/CCNA/CCNA1/Session-5/3-Others/1-MyNote/1 - note 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -211,8 +211,12 @@
   },
   "active": "be65b415c7385472",
   "lastOpenFiles": [
-    "01 - Networking/CCNA/CCNA1/Session-3/1-Theorique/1-The Rules/MyNote.md",
     "01 - Networking/CCNA/CCNA1/Session-4/3-Others/1-MyNote/1 - note 1.md",
+    "01 - Networking/CCNA/CCNA1/Session-5/3-Others/1-MyNote/1 - note 1.md",
+    "01 - Networking/CCNA/CCNA1/Session-5/3-Others/1-MyNote",
+    "01 - Networking/CCNA/CCNA1/Session-5/3-Others",
+    "01 - Networking/CCNA/CCNA1/Session-5",
+    "01 - Networking/CCNA/CCNA1/Session-3/1-Theorique/1-The Rules/MyNote.md",
     "01 - Networking/CCNA/CCNA1/Session-4/3-Others/1-MyNote",
     "01 - Networking/CCNA/CCNA1/Session-4/3-Others",
     "01 - Networking/CCNA/CCNA1/Session-4/Untitled.md",
@@ -229,9 +233,6 @@
     "01 - Networking/CCNA/CCNA1/Session-2/3-Others/1-notes/2-Commands.md",
     "01 - Networking/CCNA/CCNA1/Session-3/1-Theorique/1-The Rules/Untitled",
     "01 - Networking/CCNA/CCNA1/Session-3/1-Theorique/1-The Rules",
-    "01 - Networking/CCNA/CCNA1/Session-3/3-Others",
-    "01 - Networking/CCNA/CCNA1/Session-3/2-Pratique",
-    "01 - Networking/CCNA/CCNA1/Session-3/1-Theorique",
     "01 - Networking/CCNA/CCNA1/Session-2/2-Pratique/1-Set password.md",
     "01 - Networking/CCNA/CCNA1/Session-2/1-Thorique/1-Cisco IOS Access/1-Operating Systems.md",
     "01 - Networking/CCNA/CCNA1/Session-2/3-others.md",
@@ -245,7 +246,6 @@
     "01 - Networking/CCNA/CCNA1/Session-1/1-Theorique/4-Reliable Networks/2-Fault Tolerance.md",
     "01 - Networking/CCNA/CCNA1/Session-1/1-Theorique/4-Reliable Networks/1-Network Architecture.md",
     "01 - Networking/CCNA/CCNA1/Session-1/2-Pratique/1-pratique.md",
-    "01 - Networking/CCNA/CCNA1/Session-1/1-Theorique/3-Common Types of Networks/3-LANs and WANs (con.).md",
-    "01 - Networking/CCNA/CCNA1/Session-1/pratique.md"
+    "01 - Networking/CCNA/CCNA1/Session-1/1-Theorique/3-Common Types of Networks/3-LANs and WANs (con.).md"
   ]
 }
